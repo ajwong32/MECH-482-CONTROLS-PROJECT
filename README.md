@@ -43,4 +43,4 @@ Our team consists of Shayne Baynes, Michael Chalmers, Camille King, Edward Vohno
 
 ### Support or Contact
 
-Having trouble with Pages? Please email Alex Wong at awong35@mail.csuchico.edu (https://awong35@mail.csuchico.edu) and we’ll help you sort it out.
+Having trouble with Pages? Please email us at awong35@mail.csuchico.edu or mchalmers1@mail.csuchico.edu and we’ll help you sort it out.
